@@ -1,3 +1,11 @@
+Output :
+Dashboard: https://github.com/manojtalawar835-eng/MarriageHallBookingManagementSystem/blob/main/front%20view.png
+
+All Books: https://github.com/manojtalawar835-eng/MarriageHallBookingManagementSystem/blob/main/all%20books.png
+
+Mysql : https://github.com/manojtalawar835-eng/MarriageHallBookingManagementSystem/blob/main/mysql.png
+
+
 # Marriage Hall Booking Management System
 
 A full-stack mini-project built with Java 17, Spring Boot 3.3.5, Spring Data JPA, MySQL, Bootstrap 5 and Vanilla JavaScript.
@@ -85,9 +93,3 @@ Choose a future date when testing. The same hall cannot have more than one non-c
 - Dashboard and report data are fetched from the REST API; there are no hardcoded booking arrays.
 - This package includes source code and setup instructions. Runtime screenshots and live endpoint verification must be produced after connecting it to your own MySQL installation; no local database credentials or server were available during package creation.
 
-overall 
-Dashboard: https://github.com/manojtalawar835-eng/MarriageHallBookingManagementSystem/blob/main/front%20view.png
-
-All Books: https://github.com/manojtalawar835-eng/MarriageHallBookingManagementSystem/blob/main/all%20books.png
-
-Mysql : https://github.com/manojtalawar835-eng/MarriageHallBookingManagementSystem/blob/main/mysql.png
