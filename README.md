@@ -84,3 +84,5 @@ Choose a future date when testing. The same hall cannot have more than one non-c
 - Dashboard revenue is calculated from CONFIRMED booking rent amounts. This is a booking-value total, not a payment ledger or proof of collected payments.
 - Dashboard and report data are fetched from the REST API; there are no hardcoded booking arrays.
 - This package includes source code and setup instructions. Runtime screenshots and live endpoint verification must be produced after connecting it to your own MySQL installation; no local database credentials or server were available during package creation.
+
+
