@@ -86,8 +86,8 @@ Choose a future date when testing. The same hall cannot have more than one non-c
 - This package includes source code and setup instructions. Runtime screenshots and live endpoint verification must be produced after connecting it to your own MySQL installation; no local database credentials or server were available during package creation.
 
 overall 
-Dashboard:
+Dashboard: https://github.com/manojtalawar835-eng/MarriageHallBookingManagementSystem/blob/main/front%20view.png
 
-All Books:
+All Books: https://github.com/manojtalawar835-eng/MarriageHallBookingManagementSystem/blob/main/all%20books.png
 
-Mysql : 
+Mysql : https://github.com/manojtalawar835-eng/MarriageHallBookingManagementSystem/blob/main/mysql.png
